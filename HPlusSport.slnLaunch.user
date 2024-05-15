@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "HPlusSport.API\\HPlusSport.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "HPlusSport.Web\\HPlusSport.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

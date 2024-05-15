@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "HPlusSport.Web.Controllers.TokenController",
+    "Method": "Login",
+    "RelativePath": "api/Token/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "HPlusSport.Web.Areas.Identity.Pages.Account.LoginModel\u002BInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HPlusSport.Web.Controllers.TokenController",
+    "Method": "GetProducts",
+    "RelativePath": "api/Token/products",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
